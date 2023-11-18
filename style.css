@@ -6,7 +6,7 @@
 
 .player {
   margin: auto;
-  max-width: 50em;
+  max-width: 150em;
   padding: 1em;
 }
 .player__video {
